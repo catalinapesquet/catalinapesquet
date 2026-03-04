@@ -20,46 +20,9 @@ My work spans medical imaging, bias mitigation, synthetic data generation, and p
 🌍 Correcting representation bias with synthetic data (Masked Color Transfer) → +12% F1 on underrepresented skin phototypes
 🤖 AutoML research @ Tec de Monterrey — Evolutionary algorithms for automated decision tree architecture search
 
-
-<h2>🛠️ Tech Stack</h2>
-Languages & Frameworks
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-MLOps & Deployment
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Multimodal & GenAI
-Afficher l'image
-Afficher l'image
-Afficher l'image
-
-<h2>🚀 Featured Projects</h2>
-<h3>🔍 <a href="https://github.com/catalinapesquet">Explainable AI for Breast Cancer Classification</a></h3>
-Implemented and compared Grad-CAM, Grad-CAM++ and Saliency Maps on a CNN pipeline for the BACH histopathology dataset. Built a quantitative evaluation framework using Deletion/Insertion metrics.
-<h3>🤖 <a href="https://github.com/catalinapesquet">RAG Mini Assistant</a></h3>
-End-to-end FAQ assistant with LlamaIndex, E-5-Large embeddings, Milvus vector DB, and LLaMA 2 / GPT-2 — with a focus on retrieval reliability and semantic fidelity.
-<h3>⚡ <a href="https://github.com/catalinapesquet">YOLOv8 Edge Deployment: PyTorch → ONNX → TensorRT</a></h3>
-FP16/INT8 quantization pipeline for Jetson Nano. Benchmarked latency and throughput across runtimes for production-grade edge inference.
-
 <h2>📚 Education & Certifications</h2>
 
 🎓 Arts et Métiers — Combined BSc & MSc in Engineering (2022–2026)
 🌎 Tec de Monterrey — Exchange Year in CS & AI · CaMeX-IA Excellence Scholarship
 📜 Fundamentals of LLMs · AI Agents · Prompt Engineering (Hugging Face, 2024–2026)
 
-
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catalinapesquet&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinapesquet&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <em>Open to research collaborations and full-time opportunities in trustworthy & multimodal AI 🌱</em>
-</p>
