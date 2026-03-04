@@ -13,3 +13,11 @@
 I'm an ML Engineer graduating from Arts et Métiers (Paris), with hands-on research experience in multimodal deep learning, model explainability, and trustworthy ML.
 I care deeply about making AI systems that don't just work — but work reliably, fairly, and transparently.
 My work spans medical imaging, bias mitigation, synthetic data generation, and production deployment.
+
+🚀 Featured Projects
+🔍 Explainable AI for Breast Cancer Classification
+Implemented and compared Grad-CAM, Grad-CAM++ and Saliency Maps on a CNN pipeline for the BACH histopathology dataset. Built a quantitative evaluation framework using Deletion/Insertion metrics.
+🤖 RAG Mini Assistant
+End-to-end FAQ assistant with LlamaIndex, E-5-Large embeddings, Milvus vector DB, and LLaMA 2 / GPT-2 — with a focus on retrieval reliability and semantic fidelity.
+⚡ YOLOv8 Edge Deployment: PyTorch → ONNX → TensorRT
+FP16/INT8 quantization pipeline for Jetson Nano. Benchmarked latency and throughput across runtimes for production-grade edge inference.
