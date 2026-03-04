@@ -9,3 +9,7 @@
   <img src="https://img.shields.io/badge/Languages-EN%20%7C%20FR%20%7C%20ES-brightgreen?style=flat"/>
 </p>
 
+🧠 About Me
+I'm an ML Engineer graduating from Arts et Métiers (Paris), with hands-on research experience in multimodal deep learning, model explainability, and trustworthy ML.
+I care deeply about making AI systems that don't just work — but work reliably, fairly, and transparently.
+My work spans medical imaging, bias mitigation, synthetic data generation, and production deployment.
